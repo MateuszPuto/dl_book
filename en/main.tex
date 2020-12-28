@@ -1,0 +1,44 @@
+% arara: pdflatex
+% arara: nomencl
+% arara: bibtex
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[12pt,a4paper,twoside,openright]{memoir}
+%\documentclass[12pt,twoside,openright,draft]{memoir}
+
+\include{settings}
+
+\usepackage{pdfpages}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage[export]{adjustbox}
+\usepackage{placeins}
+
+\graphicspath{ {./images/} }
+
+\begin{document}
+
+
+\frontmatter
+\include{front/TitlePage}
+\setcounter{page}{0}
+\include{front/toc}
+\include{front/about}
+%\include{front/preface}
+%\include{front/nomenclature}
+
+\renewcommand{\figurename}{Ryc.}
+
+\mainmatter
+\pagestyle{ruled}
+\OnehalfSpacing
+%\linenumbers
+\include{chapters/chapter_1}
+\include{chapters/chapter_2}
+\include{chapters/chapter_3}
+\include{chapters/chapter_4}
+\include{chapters/chapter_5}
+\include{chapters/chapter_6}
+
+
+\end{document}
