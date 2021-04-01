@@ -165,7 +165,7 @@ w_i(t+1) = w_i(t) - n * dE/dw
 Aby obliczyć nowe wagi dla naszej sieci koniecznie potrzebujemy znać \textbf{dE/dw}, lecz problemem jest to, że zazwyczaj nie możemy obliczyć tej pochodnej bezpośrednio dla neuronów znajdujących się na dowolnej głębokości w sieci. Zamiast tego użyjemy regułę łańcuchową. Możemy dzięki niej obliczyć pochodną funkcji cząstkowej, jeśli tylko znamy pochodną funkcji złożonej oraz równania wszystkich funkcji. Skupmy się na następującym przykładzie sieci neuronowej składającej się z trzech neuronów, dla którego chcemy obliczyć \textbf{dE/dw} dla neuronu \textbf{f}: 
 
 \begin{equation}
-y = h(f(w_1) + g(w_2))
+y = h(f(w_1) + g(w_1))
 \end{equation}
 
 \noindent Załóżmy też, że znamy błąd określony równaniem:
@@ -191,7 +191,7 @@ e = E(h)
 \\
 y = h(f + g)
 \\
-f(w_1), g(w_2)
+f(w_1), g(w_1)
 \end{split}
 \end{equation}
  

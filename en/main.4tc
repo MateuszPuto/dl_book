@@ -1,0 +1,63 @@
+\expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{1}{x1-1000}{QQ2-1-1}{Spis treści}}{3}\relax 
+\doTocEntry\tocchapter{1}{\csname a:TocLink\endcsname{1}{x1-20001}{QQ2-1-2}{Wstęp}}{3}\relax 
+\doTocEntry\tocsection{1.1}{\csname a:TocLink\endcsname{1}{x1-30001}{QQ2-1-3}{Cele...}}{3}\relax 
+\doTocEntry\tocsection{1.2}{\csname a:TocLink\endcsname{1}{x1-40002}{QQ2-1-4}{... i jak je osiągnąć}}{5}\relax 
+\doTocEntry\tocsection{1.3}{\csname a:TocLink\endcsname{1}{x1-50003}{QQ2-1-5}{Właściwy wstęp}}{7}\relax 
+\doTocEntry\tocsection{1.4}{\csname a:TocLink\endcsname{1}{x1-60004}{QQ2-1-6}{Jakie tematy poruszymy w tym kursie}}{8}\relax 
+\doTocEntry\tocchapter{2}{\csname a:TocLink\endcsname{1}{x1-70002}{QQ2-1-7}{Optymalizacja matematyczna}}{11}\relax 
+\doTocEntry\tocsection{2.1}{\csname a:TocLink\endcsname{1}{x1-80001}{QQ2-1-8}{Metoda prób i błędów}}{12}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-8003}{}{\numberline {2.1}{\ignorespaces Metoda prób i błędów\relax }}}{18}\relax 
+\doTocEntry\tocsection{2.2}{\csname a:TocLink\endcsname{1}{x1-90002}{QQ2-1-9}{Wspinaczka górska}}{20}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-9002}{}{\numberline {2.2}{\ignorespaces Algorytm wspinaczki górskiej\relax }}}{27}\relax 
+\doTocEntry\tocsection{2.3}{\csname a:TocLink\endcsname{1}{x1-100003}{QQ2-1-10}{Metoda gradientu prostego}}{29}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-10002}{}{\numberline {2.3}{\ignorespaces Metoda gradientu prostego\relax }}}{35}\relax 
+\doTocEntry\tocsection{2.4}{\csname a:TocLink\endcsname{1}{x1-110004}{QQ2-1-11}{Plus wielkość kroku}}{39}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-11004}{}{\numberline {2.4}{\ignorespaces Wybór wielkości kroku\relax }}}{46}\relax 
+\doTocEntry\tocsection{2.5}{\csname a:TocLink\endcsname{1}{x1-120005}{QQ2-1-12}{Plus momentum}}{48}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-12002}{}{\numberline {2.5}{\ignorespaces Zachowanie optymalizatora bez dodatku pędu\relax }}}{53}\relax 
+\doTocEntry\tocsection{2.6}{\csname a:TocLink\endcsname{1}{x1-130006}{QQ2-1-13}{SGD}}{59}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-13002}{}{\numberline {2.6}{\ignorespaces mini-batch SGD\relax }}}{64}\relax 
+\doTocEntry\tocchapter{3}{\csname a:TocLink\endcsname{1}{x1-140003}{QQ2-1-14}{Sieci neuronowe}}{71}\relax 
+\doTocEntry\tocsection{3.1}{\csname a:TocLink\endcsname{1}{x1-150001}{QQ2-1-15}{Perceptron}}{72}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-15005}{}{\numberline {3.1}{\ignorespaces Perceptron\relax }}}{81}\relax 
+\doTocEntry\tocsection{3.2}{\csname a:TocLink\endcsname{1}{x1-160002}{QQ2-1-16}{Neurony}}{83}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-16003}{}{\numberline {3.2}{\ignorespaces Neuron\relax }}}{90}\relax 
+\doTocEntry\tocsection{3.3}{\csname a:TocLink\endcsname{1}{x1-170003}{QQ2-1-17}{Funkcje aktywacji}}{92}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-17007}{}{\numberline {3.3}{\ignorespaces Funkcje aktywacji\relax }}}{99}\relax 
+\doTocEntry\tocsection{3.4}{\csname a:TocLink\endcsname{1}{x1-180004}{QQ2-1-18}{Wszystko razem}}{101}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-18003}{}{\numberline {3.4}{\ignorespaces Sieć neuronowa\relax }}}{109}\relax 
+\doTocEntry\tocsection{3.5}{\csname a:TocLink\endcsname{1}{x1-190005}{QQ2-1-19}{Propagacja wsteczna}}{111}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-19018}{}{\numberline {3.5}{\ignorespaces Pochodne w propagacji wstecznej\relax }}}{124}\relax 
+\doTocEntry\tocsection{3.6}{\csname a:TocLink\endcsname{1}{x1-200006}{QQ2-1-20}{Zaawansowane tematy w zagadnienu}}{129}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-20002}{}{\numberline {3.6}{\ignorespaces Normalizacja danych\relax }}}{135}\relax 
+\doTocEntry\tocchapter{4}{\csname a:TocLink\endcsname{1}{x1-210004}{QQ2-1-21}{Symboliczne AI}}{143}\relax 
+\doTocEntry\tocsection{4.1}{\csname a:TocLink\endcsname{1}{x1-220001}{QQ2-1-22}{Rozwiązywanie poprzez wyszukiwanie}}{145}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-22002}{}{\numberline {4.1}{\ignorespaces Propagacja ograniczeń\relax }}}{151}\relax 
+\doTocEntry\tocsection{4.2}{\csname a:TocLink\endcsname{1}{x1-230002}{QQ2-1-23}{Drzewa poszukiwań}}{153}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-23002}{}{\numberline {4.2}{\ignorespaces Drzewo poszukiwań\relax }}}{159}\relax 
+\doTocEntry\tocsection{4.3}{\csname a:TocLink\endcsname{1}{x1-240003}{QQ2-1-24}{Poszukiwanie na głębokość i rozpiętość}}{161}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-24002}{}{\numberline {4.3}{\ignorespaces Poszukiwanie na rozpiętość i głębokość\relax }}}{167}\relax 
+\doTocEntry\tocsection{4.4}{\csname a:TocLink\endcsname{1}{x1-250004}{QQ2-1-25}{Minimax}}{169}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-25003}{}{\numberline {4.4}{\ignorespaces Minimax\relax }}}{175}\relax 
+\doTocEntry\tocsection{4.5}{\csname a:TocLink\endcsname{1}{x1-260005}{QQ2-1-26}{A*}}{178}\relax 
+\doTocEntry\tocsection{4.6}{\csname a:TocLink\endcsname{1}{x1-270006}{QQ2-1-27}{MCTS}}{180}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-27002}{}{\numberline {4.5}{\ignorespaces MCTS\relax }}}{185}\relax 
+\doTocEntry\tocchapter{5}{\csname a:TocLink\endcsname{1}{x1-280005}{QQ2-1-28}{Uczenie ze wzmocnieniem}}{193}\relax 
+\doTocEntry\tocsection{5.1}{\csname a:TocLink\endcsname{1}{x1-290001}{QQ2-1-29}{Problem uczenia ze wzmocnieniem}}{194}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-29003}{}{\numberline {5.1}{\ignorespaces Problem uczenia ze wzmocnieniem\relax }}}{200}\relax 
+\doTocEntry\tocsection{5.2}{\csname a:TocLink\endcsname{1}{x1-300002}{QQ2-1-30}{Wieloręczny bandyta}}{202}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-30006}{}{\numberline {5.2}{\ignorespaces Wieloręczny bandyta\relax }}}{211}\relax 
+\doTocEntry\tocsection{5.3}{\csname a:TocLink\endcsname{1}{x1-310003}{QQ2-1-31}{MDP}}{213}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-31004}{}{\numberline {5.3}{\ignorespaces Przykładowe przejścia między stanami MDP\relax }}}{219}\relax 
+\doTocEntry\tocsection{5.4}{\csname a:TocLink\endcsname{1}{x1-320004}{QQ2-1-32}{Uczenie Monte-Carlo}}{221}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-32004}{}{\numberline {5.4}{\ignorespaces Rozwinięcie Monte-Carlo\relax }}}{227}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-32007}{}{\numberline {5.5}{\ignorespaces Propagacja błędu w TD\relax }}}{235}\relax 
+\doTocEntry\tocsection{5.5}{\csname a:TocLink\endcsname{1}{x1-330005}{QQ2-1-33}{Uczenie TD}}{237}\relax 
+\doTocEntry\toclof{}{\csname a:TocLink\endcsname{1}{x1-33003}{}{\numberline {5.6}{\ignorespaces Propagacja błędu w TD($\lambda $)\relax }}}{244}\relax 
+\doTocEntry\tocsection{5.6}{\csname a:TocLink\endcsname{1}{x1-340006}{QQ2-1-34}{Uczenie TD(lambda)}}{246}\relax 
+\doTocEntry\tocchapter{6}{\csname a:TocLink\endcsname{1}{x1-350006}{QQ2-1-35}{Gry i więcej}}{251}\relax 
+\doTocEntry\tocsection{6.1}{\csname a:TocLink\endcsname{1}{x1-360001}{QQ2-1-36}{AlphaGo (rok 2016)}}{251}\relax 
+\doTocEntry\tocsection{6.2}{\csname a:TocLink\endcsname{1}{x1-370002}{QQ2-1-37}{AlphaZero (rok 2017)}}{256}\relax 
+\doTocEntry\tocsection{6.3}{\csname a:TocLink\endcsname{1}{x1-380003}{QQ2-1-38}{MuZero (rok 2019)}}{256}\relax 
+\doTocEntry\tocsection{6.4}{\csname a:TocLink\endcsname{1}{x1-390004}{QQ2-1-39}{AGI}}{258}\relax 
